@@ -1,7 +1,3 @@
-Microservices-Level-3
-<!-- Do  -->
-
-
 # 💫 About Me:
 Hi, I’m Md Aman — a BCA student and aspiring Software Engineer with a strong focus on backend development, DSA, and real-world projects.<br>Data Structures & Algorithms in Java and backend projects using Spring Boot microservices.<br>Backend development projects, Java-based applications, and open-source beginner-friendly repositories.<br>Advanced DSA problems, system design fundamentals, and backend best practices.<br>Microservices architecture, backend system design, and improving problem-solving skills.<br>Java, DSA basics, backend development, Git & GitHub, and project structuring.<br>I enjoy solving coding problems daily and learning by building real projects.<br>
 
