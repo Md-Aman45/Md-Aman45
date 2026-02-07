@@ -73,7 +73,9 @@ I focus on writing clean code, understanding system fundamentals, and improving 
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&show_icons=true&theme=dark&hide_border=false" width="100%" />
+![](https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
