@@ -1,18 +1,102 @@
-# 💫 About Me:
-You are a senior software engineer and recruiter.<br><br>Create a clean, professional, recruiter-friendly GitHub Profile README for me.<br><br>My details:<br>- Name: Md Aman<br>- Education: BCA (Bachelor of Computer Applications) student<br>- Career Goal: Software Engineer / Backend Developer<br>- Core Focus: Data Structures & Algorithms, Java, Backend Development<br>- Backend Skills: Java, Spring Boot, Microservices, Node.js, Express, REST APIs<br>- Databases: MySQL (primary), MongoDB (basic)<br>- Frontend (basic): HTML, CSS, JavaScript, EJS<br>- Tools: Git, GitHub, Maven, VS Code, IntelliJ IDEA<br>- Projects:<br>  - DSA Programs in Java<br>  - Spring Boot Microservices projects<br>  - Video Call App (Zoom Clone)<br>  - Spotify Clone (Frontend)<br>  - Airbnb UI Replica<br>  - Portfolio website (GitHub Pages)<br><br>Requirements:<br>- This is a GitHub PROFILE README (not a project README)<br>- Use a professional, minimal, and honest tone<br>- Avoid skill inflation (do NOT list tools I don’t actively use)<br>- Avoid overcrowded badges and unnecessary emojis<br>- Make it backend-focused and fresher-friendly<br>- Include sections:<br>  1. Short introduction<br>  2. About Me (concise, readable, not repetitive)<br>  3. Tech Stack (grouped clearly)<br>  4. Featured Projects (short bullet points)<br>  5. GitHub Stats (use stable github-readme-stats links)<br>  6. Currently Improving<br>- Fix broken links (LinkedIn should have no spaces)<br>- Make it easy to scan in 10–15 seconds (recruiter view)<br>- Output ONLY the final README.md content in Markdown<br>- Do NOT include explanations or commentary<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-aman-7941a0355/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hi 👋 I'm Md Aman
+🚀 Software Engineering Student | Backend Developer | MERN Stack Engineer
+💻 Strong in Java + DSA | Building Scalable Web Apps | Learning System Design + Microservices
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Md-Aman45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧑‍💻 About Me
+I’m a BCA (Bachelor of Computer Applications) student with a strong interest in **backend development and problem solving**.  
+I enjoy working with **Java, Data Structures & Algorithms**, and building **real-world backend applications**.
+
+I focus on writing clean code, understanding system fundamentals, and improving my skills by building projects consistently.
+
+---
+
+## 🎯 Career Focus
+- 🎓 Preparing for **Big Tech Placements (2026)**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- ⚙️ Backend development using **Java & Spring Boot & Node.js**
+- 🌱 Currently learning **Microservices & System Design fundamentals**
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+- Java (Primary)
+- Python (Basics)
+- JavaScript
+
+### Backend Development
+- Node.js, Express.js
+- Spring Boot (Microservices)
+- Mern Stack
+- REST APIs, JWT Authentication
+
+### Databases & Caching
+- MySQL, PostgresSQL
+- MongoDB
+- Redis (Caching + Performance Optimization)
+
+### DevOps & Cloud
+- AWS (EC2, Amplify, IAM, RDS, Session Manager, S3)
+- Docker, GitHub Actions CI/CD
+
+### Tools & Platforms
+- Git & GitHub
+- Maven
+- VS Code
+- IntelliJ IDEA
+
+---
+
+
+## 📌 Featured Projects
+
+### 🚀 GramFlix – Referral System (Live Project)
+🔗 https://gramflix.in
+
+- Built a production-grade **MLM referral system** using **Node.js, MongoDB, Redis, and Next.js**
+- Designed a **microservices-based backend architecture** with centralized error handling
+- Implemented **JWT authentication** with **role-based access control**
+- Optimized performance using **Redis caching**
+- Deployed on **AWS EC2** with basic **CI/CD pipelines**
+
+### 📘 DSA Programs (Java & Python)
+- Solving interview-oriented **Data Structures & Algorithms** problems in **Java and Python**
+- Covers arrays, strings, recursion, linked list, stack, queue, searching, and sorting
+- Focus on **logic building, clean implementation, and time–space optimization**
+
+
+---
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Aman45&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&layout=compact&theme=dark)
+
+---
+
+
+## 🎯 Currently Improving
+- Advanced DSA problem solving  
+- Solved **200+ DSA problems on LeetCode**  
+- Solved **200+ DSA problems on GeeksforGeeks**  
+- Backend system design basics  
+- Microservices best practices  
+- MERN stack project depth  
+- Writing clean, maintainable code
+
+---
+
+
+## 🤝 Connect With Me
+📧 Email: aman9534577@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/md-aman  
+🧠 LeetCode: https://leetcode.com/u/AmanOps/  
+📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/amanstack?tab=activity  
+🌐 Portfolio: https://md-aman45.github.io/
+
+---
+
+⭐ Always building. Always learning. Always improving.
