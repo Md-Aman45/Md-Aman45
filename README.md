@@ -25,7 +25,7 @@ I focus on writing clean code, understanding system fundamentals, and improving 
 
 ### Programming Languages
 - Java (Primary)
-- Python (Basics)
+- Python
 - JavaScript
 
 ### Backend Development
