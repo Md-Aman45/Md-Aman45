@@ -41,7 +41,7 @@ I focus on writing clean code, understanding system fundamentals, and improving 
 
 ### DevOps & Cloud
 - AWS (EC2, Amplify, IAM, RDS, Session Manager, S3)
-- Docker, GitHub Actions CI/CD
+- Docker, GitHub Actions CI/CD, Kubernetes
 
 ### Tools & Platforms
 - Git & GitHub
