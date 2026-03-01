@@ -1,7 +1,7 @@
 # Hi👋 I'm Md Aman
 
 🚀 Software Engineering Student | Backend Developer | MERN Stack Engineer
-💻 Strong in Java + Python + DSA | Building Scalable Web Apps | Learning System Design + Microservices
+💻 Strong in Java + DSA | Building Scalable Web Apps | Learning System Design + Microservices
 
 ---
 
@@ -110,5 +110,3 @@ I focus on writing clean code, understanding system fundamentals, and improving 
 ---
 
 ⭐ Always building. Always learning. Always improving.
-
-
