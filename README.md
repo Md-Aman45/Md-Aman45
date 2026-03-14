@@ -1,40 +1,93 @@
 <div align="center">
 
-# 👋 Hey, I'm Md Aman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4a73,100:58a6ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-### Software Engineering Student · Backend Developer · MERN Stack Engineer
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java+%2B+DSA;Building+Scalable+Web+Apps;Microservices+%7C+Spring+Boot+%7C+Node.js;Targeting+Big+Tech+Placements+2026+%F0%9F%9A%80)
+<table>
+<tr>
+<td valign="top" width="55%">
+
+<div align="left">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm **Md Aman**
+
+### 🚀 Backend Developer · MERN Stack · Java + DSA
+
+```yaml
+name     : Md Aman
+role     : Backend Developer
+college  : BCA Student
+location : India 🇮🇳
+focus    : Big Tech Placements 2026
+status   : Building & Learning daily
+```
+
+- ⚙️ Building scalable systems with **Node.js & Spring Boot**
+- 🧠 Solved **200+ LeetCode** + **200+ GFG** problems
+- 🌱 Deep diving into **Microservices + System Design**
+- 💡 Love writing **clean, optimized backend code**
+- 🎯 Goal: **Big Tech SWE role in 2026**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmanOps/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
+
+</div>
+
+</td>
+<td valign="top" width="45%">
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+DSA+Enthusiast+%F0%9F%A7%A0;Node.js+%7C+Spring+Boot+%7C+Redis;Microservices+Architecture+%E2%9A%99%EF%B8%8F;Building+for+Big+Tech+2026+%F0%9F%8E%AF;200%2B+LeetCode+%7C+200%2B+GFG+%E2%9C%85" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950" width="100%"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="100%"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Aman45&theme=github_dark&utcOffset=5.5" width="38%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Aman45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true&area_color=1f4a73" width="96%"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-BCA student with a strong focus on **backend development** and **problem solving**. I build production-grade systems using **Java, Node.js, and Spring Boot** — and I'm actively sharpening my DSA skills and diving into **microservices and system design** to prepare for Big Tech placements in 2026.
-
-- 🎯 Targeting **Big Tech Placements 2026**
-- 💻 Strong in **Java + Data Structures & Algorithms**
-- ⚙️ Backend with **Node.js, Spring Boot & Microservices**
-- 🌱 Currently learning **System Design fundamentals**
-- 🧠 Solved **200+ problems on LeetCode** and **200+ on GeeksforGeeks**
-
----
-
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&theme=github_dark&hide_border=true&layout=compact&langs_count=6)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<img src="https://github-profile-trophy.vercel.app/?username=Md-Aman45&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -42,84 +95,132 @@ BCA student with a strong focus on **backend development** and **problem solving
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**
+**Backend & Frameworks**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases & Caching**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 [GramFlix – Referral System](https://gramflix.in) `Live`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Production-grade MLM referral platform with a microservices backend, role-based JWT authentication, Redis caching, and automated CI/CD on AWS EC2.
+### 🚀 [GramFlix – Referral System](https://gramflix.in) &nbsp;`🟢 Live`
+
+Production-grade **MLM referral platform** with microservices architecture, role-based JWT auth, Redis caching & CI/CD on AWS EC2. Full Next.js frontend with centralized error handling.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ Spring Boot Microservices
 
-> Backend projects exploring service-to-service communication, scalable architecture patterns, and microservices best practices using Spring Boot.
+Scalable backend projects using **Spring Boot** with service-to-service communication, REST APIs, JWT, and microservices design patterns for real-world backend architecture.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📘 DSA Practice – Java & Python
 
-> 400+ interview-focused problems across arrays, strings, recursion, linked lists, trees, stacks, queues, and sorting — with a focus on time–space optimization.
+**400+ interview problems** covering arrays, strings, recursion, linked lists, trees, stacks, queues, searching & sorting — focused on time–space optimization and clean logic.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 
+</td>
+<td width="50%" valign="top">
+
+### 🌐 MERN Stack Projects
+
+Full-stack web applications using **MongoDB, Express, React & Node.js** — REST APIs, authentication flows, state management, and cloud deployment.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Currently Improving
+## 🎯 2026 Roadmap
 
 ```
-✦ Advanced DSA patterns & problem solving
-✦ System Design fundamentals
-✦ Microservices best practices
-✦ MERN stack depth
-✦ Writing clean, maintainable code
+Q1 2025  ████████████████████  ✅  Microservices + Redis + AWS Production Deploy
+Q2 2025  ████████████████░░░░  🔄  System Design Fundamentals + Advanced DSA
+Q3 2025  ████████░░░░░░░░░░░░  📌  Kubernetes + Distributed Systems
+Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Interview Prep + Open Source Contributions
+2026     ░░░░░░░░░░░░░░░░░░░░  🚀  Big Tech Placement
 ```
+
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/AmanOps/)
+
+</div>
 
 ---
 
 <div align="center">
 
-⚡ **Always building. Always learning. Always improving.** ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=100&section=footer&text=%E2%9A%A1+Always+Building.+Always+Learning.+Always+Improving.+%E2%9A%A1&fontSize=14&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 </div>
