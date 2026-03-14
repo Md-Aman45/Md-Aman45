@@ -24,7 +24,8 @@ status   : Building & Learning daily
 ```
 
 - ⚙️ Building scalable systems with **Node.js & Spring Boot**
-- 🧠 Solved **200+ LeetCode** + **200+ GFG** problems
+- 🧠 **317 LeetCode submissions** · 160-day streak · Rank **#483,469**
+- 📊 **285 GFG problems** · Easy: 138 · Medium: 126 · Hard: 19
 - 🌱 Deep diving into **Microservices + System Design**
 - 💡 Passionate about **clean, optimized backend code**
 - 🎯 Goal: **Big Tech SWE role in 2026**
@@ -46,7 +47,7 @@ status   : Building & Learning daily
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+DSA+Enthusiast+%F0%9F%A7%A0;Node.js+%7C+Spring+Boot+%7C+Redis;Microservices+Architecture+%E2%9A%99%EF%B8%8F;Building+Interview_ai+%F0%9F%A4%96;200%2B+LeetCode+%7C+200%2B+GFG+%E2%9C%85;Big+Tech+2026+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+DSA+Enthusiast+%F0%9F%A7%A0;Node.js+%7C+Spring+Boot+%7C+Redis;Microservices+Architecture+%E2%9A%99%EF%B8%8F;Building+Interview_ai+%F0%9F%A4%96;317+LeetCode+%7C+285+GFG+%F0%9F%94%A5;Big+Tech+2026+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -84,18 +85,28 @@ status   : Building & Learning daily
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-Active-58a6ff?style=for-the-badge&logo=git&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-281%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![GFG](https://img.shields.io/badge/GFG-285%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=fire&logoColor=white)
-![Rank](https://img.shields.io/badge/LeetCode%20Rank-%23483469-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Backend](https://img.shields.io/badge/Role-Backend%20Developer-58a6ff?style=for-the-badge&logo=serverless&logoColor=white)
+<!-- Real LeetCode Stats -->
+![LeetCode Solved](https://img.shields.io/badge/LeetCode-317%20Submissions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Rank](https://img.shields.io/badge/Rank-%23483469-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Streak](https://img.shields.io/badge/Max%20Streak-160%20Days%20🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Active Days](https://img.shields.io/badge/Active%20Days-160-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<!-- LeetCode Badges earned -->
+![50Days](https://img.shields.io/badge/🏅%2050%20Days%20Badge-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![FebBadge](https://img.shields.io/badge/📅%20Feb%202026%20Badge-Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![DailyChallenge](https://img.shields.io/badge/⚡%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<!-- GFG -->
+![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![GFG Solved](https://img.shields.io/badge/GFG-285%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+<!-- General -->
 ![AWS](https://img.shields.io/badge/Cloud-AWS%20Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Target](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=rocket&logoColor=white)
+![Target](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=target&logoColor=white)
 
 </div>
 
@@ -105,18 +116,26 @@ status   : Building & Learning daily
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🟡 LeetCode
+### 🟡 LeetCode — AmanOps
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/AmanOps/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0&sheets=https://leetcard.jacoblin.cool/api/css/default)](https://leetcode.com/u/AmanOps/)
+
+> 🔥 **160-day max streak** · **317 submissions** · **Rank #483,469**
+> 
+> 🏅 50 Days Badge (Active) · 📅 Feb 2026 Badge · ⚡ Daily Challenge
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🟢 GeeksforGeeks
+### 🟢 GeeksforGeeks — amanstack
 
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=amanstack&theme=dark)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
+
+> 🔥 **42-day streak** · **285 problems solved**
+> 
+> 📊 Easy: 138 · Medium: 126 · Hard: 19
 
 </td>
 </tr>
