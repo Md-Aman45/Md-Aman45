@@ -95,10 +95,17 @@ status   : Building & Learning daily
 ![LeetCode Streak](https://img.shields.io/badge/Max%20Streak-160%20Days%20🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Active Days](https://img.shields.io/badge/Active%20Days-160-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-<!-- LeetCode Badges earned -->
-![50Days](https://img.shields.io/badge/🏅%2050%20Days%20Badge-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![FebBadge](https://img.shields.io/badge/📅%20Feb%202026%20Badge-Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<!-- LeetCode Badges earned — clickable -->
+[![50Days Badge](https://img.shields.io/badge/🏅%2050%20Days%20Badge-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
+[![FebBadge](https://img.shields.io/badge/📅%20Feb%202026%20Badge-Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
 ![DailyChallenge](https://img.shields.io/badge/⚡%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+<br/>
+
+<!-- Actual LeetCode Medal — click to view -->
+<a href="https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false" title="View LeetCode 50 Days Badge">
+  <img src="https://leetcode.com/medal/?showImg=1&id=9507417&isLevel=false" alt="LeetCode 50 Days Badge" height="90"/>
+</a>
 
 <!-- GFG -->
 ![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
