@@ -102,11 +102,6 @@ status   : Building & Learning daily
 
 <br/>
 
-<!-- Actual LeetCode Medal — click to view -->
-<a href="https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false" title="View LeetCode 50 Days Badge">
-  <img src="https://leetcode.com/medal/?showImg=1&id=9507417&isLevel=false" alt="LeetCode 50 Days Badge" height="90"/>
-</a>
-
 <!-- GFG -->
 ![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![GFG Solved](https://img.shields.io/badge/GFG-285%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
