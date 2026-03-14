@@ -84,11 +84,18 @@ status   : Building & Learning daily
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Aman45&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="100%"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-Active-58a6ff?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-281%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GFG](https://img.shields.io/badge/GFG-285%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=fire&logoColor=white)
+![Rank](https://img.shields.io/badge/LeetCode%20Rank-%23483469-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Backend](https://img.shields.io/badge/Role-Backend%20Developer-58a6ff?style=for-the-badge&logo=serverless&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS%20Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Target](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
 
