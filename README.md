@@ -32,8 +32,8 @@ status   : Building & Learning daily
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman-7941a0355/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/portfolio.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmanOps/)
@@ -88,7 +88,7 @@ status   : Building & Learning daily
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Aman45&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Md-Aman45&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" width="100%"/>
 
 </div>
 
