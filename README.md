@@ -12,12 +12,12 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm **Md Aman**
 
-### 🚀 Backend Developer · MERN Stack · Java + DSA + Python
+### 🚀 Backend Developer · MERN Stack · Java + DSA
 
 ```yaml
 name     : Md Aman
 role     : Backend Developer
-college  : BCA Student
+college  : Patna College (BCA Student)
 location : India 🇮🇳
 focus    : Big Tech Placements 2026
 status   : Building & Learning daily
