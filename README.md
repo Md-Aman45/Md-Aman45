@@ -12,7 +12,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm **Md Aman**
 
-### 🚀 Backend Developer · MERN Stack · Java + DSA
+### 🚀 Backend Developer · MERN Stack · Java + DSA + Python
 
 ```yaml
 name     : Md Aman
