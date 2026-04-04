@@ -10,14 +10,14 @@
 
 <div align="left">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm **Md Aman**
+# 👋 Hey, I'm **Md Aman**
 
 ### 🚀 Backend Developer · MERN Stack · Java + DSA
 
 ```yaml
 name     : Md Aman
 role     : Backend Developer
-college  : Patna College (BCA Student)
+college  : BCA Student
 location : India 🇮🇳
 focus    : Big Tech Placements 2026
 status   : Building & Learning daily
@@ -47,15 +47,15 @@ status   : Building & Learning daily
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+DSA+Enthusiast+%F0%9F%A7%A0;Node.js+%7C+Spring+Boot+%7C+Redis;Microservices+Architecture+%E2%9A%99%EF%B8%8F;Building+Interview_ai+%F0%9F%A4%96;317+LeetCode+%7C+285+GFG+%F0%9F%94%A5;Big+Tech+2026+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=350&lines=Backend+Developer+%F0%9F%9A%80;Java+%2B+DSA+Enthusiast+%F0%9F%A7%A0;Node.js+%7C+Spring+Boot+%7C+Redis;Microservices+Architecture+%E2%9A%99%EF%B8%8F;Building+Interview_ai+%F0%9F%A4%96;317+LeetCode+%7C+285+GFG+%F0%9F%94%A5;Big+Tech+2026+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="100%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
@@ -101,6 +101,11 @@ status   : Building & Learning daily
 ![DailyChallenge](https://img.shields.io/badge/⚡%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <br/>
+
+<!-- Actual LeetCode Medal — click to view -->
+<a href="https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false" title="View LeetCode 50 Days Badge">
+  <img src="https://leetcode.com/medal/?showImg=1&id=9507417&isLevel=false" alt="LeetCode 50 Days Badge" height="90"/>
+</a>
 
 <!-- GFG -->
 ![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -273,8 +278,3 @@ Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Int
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=110&section=footer&text=%E2%9A%A1+Always+Building.+Always+Learning.+Always+Improving.+%E2%9A%A1&fontSize=13&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 </div>
-
-
-
-
-
