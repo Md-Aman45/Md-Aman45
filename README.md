@@ -37,6 +37,8 @@ status   : Building & Learning daily
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/portfolio.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
 
+<br/>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmanOps/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
 
@@ -55,7 +57,7 @@ status   : Building & Learning daily
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" width="100%"/>
 
 </div>
 
@@ -79,7 +81,7 @@ status   : Building & Learning daily
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Aman45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true&area_color=1f4a73" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Aman45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true&area_color=1f4a73" width="100%"/>
 
 </div>
 
@@ -89,24 +91,24 @@ status   : Building & Learning daily
 
 <div align="center">
 
-<!-- Real LeetCode Stats -->
 ![LeetCode Solved](https://img.shields.io/badge/LeetCode-317%20Submissions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![LeetCode Rank](https://img.shields.io/badge/Rank-%23483469-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![LeetCode Streak](https://img.shields.io/badge/Max%20Streak-160%20Days%20🔥-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Active Days](https://img.shields.io/badge/Active%20Days-160-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-<!-- LeetCode Badges earned — clickable -->
+<br/>
+
 [![50Days Badge](https://img.shields.io/badge/🏅%2050%20Days%20Badge-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
 [![FebBadge](https://img.shields.io/badge/📅%20Feb%202026%20Badge-Earned-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
 ![DailyChallenge](https://img.shields.io/badge/⚡%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <br/>
 
-<!-- GFG -->
 ![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![GFG Solved](https://img.shields.io/badge/GFG-285%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 
-<!-- General -->
+<br/>
+
 ![AWS](https://img.shields.io/badge/Cloud-AWS%20Deployed-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Target](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=target&logoColor=white)
 
@@ -122,10 +124,10 @@ status   : Building & Learning daily
 
 ### 🟡 LeetCode — AmanOps
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0&sheets=https://leetcard.jacoblin.cool/api/css/default)](https://leetcode.com/u/AmanOps/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/AmanOps/)
 
 > 🔥 **160-day max streak** · **317 submissions** · **Rank #483,469**
-> 
+>
 > 🏅 50 Days Badge (Active) · 📅 Feb 2026 Badge · ⚡ Daily Challenge
 
 </td>
@@ -136,7 +138,7 @@ status   : Building & Learning daily
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=amanstack&theme=dark)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
 
 > 🔥 **42-day streak** · **285 problems solved**
-> 
+>
 > 📊 Easy: 138 · Medium: 126 · Hard: 19
 
 </td>
@@ -270,11 +272,6 @@ Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Int
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=110&section=footer&text=%E2%9A%A1+Always+Building.+Always+Learning.+Always+Improving.+%E2%9A%A1&fontSize=13&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=110&section=footer&text=Always+Building.+Always+Learning.+Always+Improving.&fontSize=15&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 </div>
-
-
-
-
-
