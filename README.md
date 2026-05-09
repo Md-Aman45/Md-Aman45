@@ -275,3 +275,10 @@ Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Int
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=110&section=footer&text=Always+Building.+Always+Learning.+Always+Improving.&fontSize=15&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
 
 </div>
+
+
+
+
+
+
+
