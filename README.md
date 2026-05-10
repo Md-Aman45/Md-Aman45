@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4a73,100:58a6ff&height=140&section=header&animation=fadeIn&text=Md%20Aman&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20%7C%20Java%20%2B%20DSA%20%7C%20MERN%20Stack&descSize=16&descAlignY=75&descColor=58a6ff" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+Systems+with+Java+%26+Node.js;Microservices+%7C+Spring+Boot+%7C+Redis+%7C+AWS;317+LeetCode+%7C+285+GFG+%7C+160-Day+Streak+%F0%9F%94%A5;Targeting+Big+Tech+Placements+2026+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+Systems+with+Java+%26+Node.js;Microservices+%7C+Spring+Boot+%7C+Redis+%7C+AWS;401+LeetCode+Solved+%7C+Rank+%23297%2C743+%F0%9F%94%A5;Targeting+Big+Tech+Placements+2026+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -41,7 +39,7 @@
 ```
 
 - ⚙️ Building production-grade systems with **Node.js, Spring Boot & Microservices**
-- 🧠 **317 LeetCode submissions** · **160-day streak** · Rank **#483,469**
+- 🧠 **401 LeetCode solved** · Rank **#297,743** · 160-day max streak 🔥
 - 📊 **285 GFG problems** · Easy: 138 · Medium: 126 · Hard: 19
 - 🌱 Deep diving into **System Design + Distributed Systems**
 - 🤖 Building **Interview\_ai** — AI-powered interview prep platform
@@ -54,15 +52,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&bg_color=0d1117" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&bg_color=0d1117" height="175"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
-</div>
-
-<div align="center">
-
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff" />
 
@@ -80,31 +74,23 @@
 
 ---
 
-## 🏆 Achievements & LeetCode Badges
+## 🏆 Achievements & Badges
 
 <div align="center">
 
-![LeetCode Submissions](https://img.shields.io/badge/Submissions-317-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![LeetCode Rank](https://img.shields.io/badge/Global%20Rank-%23483%2C469-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-401-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Rank](https://img.shields.io/badge/Global%20Rank-%23297%2C743-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Max Streak](https://img.shields.io/badge/Max%20Streak-160%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Active Days](https://img.shields.io/badge/Active%20Days-160-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <br/>
 
-[![50 Days Badge](https://img.shields.io/badge/%F0%9F%8F%85%2050%20Days%20Badge-ACTIVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
 [![Feb 2026 Badge](https://img.shields.io/badge/%F0%9F%93%85%20Feb%202026%20Badge-EARNED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
 ![Daily Challenge](https://img.shields.io/badge/%E2%9A%A1%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 <br/>
 
-<a href="https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false" title="LeetCode 50 Days Badge">
-  <img src="https://leetcode.com/medal/?showImg=1&id=9507417&isLevel=false" alt="50 Days Badge" height="100"/>
-</a>
-
-<br/><br/>
-
 ![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![GFG Total](https://img.shields.io/badge/GFG%20Solved-285-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![GFG Solved](https://img.shields.io/badge/GFG%20Solved-285-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Deployed-Production-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Big Tech](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=rocket&logoColor=white)
 
@@ -119,19 +105,19 @@
 ### 🟡 LeetCode — AmanOps
 
 <a href="https://leetcode.com/u/AmanOps/">
-  <img src="https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats Card"/>
+  <img src="https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </a>
 
-**🔥 160-day max streak &nbsp;·&nbsp; 317 submissions &nbsp;·&nbsp; Rank #483,469**
+**🔥 160-day max streak &nbsp;·&nbsp; 401 solved &nbsp;·&nbsp; Rank #297,743**
 
-🏅 50 Days Badge (Active) &nbsp;·&nbsp; 📅 Feb 2026 Badge &nbsp;·&nbsp; ⚡ Daily Challenge 45%
+📅 Feb 2026 Badge &nbsp;·&nbsp; ⚡ Daily Challenge 45%
 
 <br/>
 
 ### 🟢 GeeksforGeeks — amanstack
 
 <a href="https://www.geeksforgeeks.org/profile/amanstack">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=amanstack&theme=dark" alt="GFG Stats Card"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=amanstack&theme=dark" alt="GFG Stats"/>
 </a>
 
 **🔥 42-day streak &nbsp;·&nbsp; 285 problems &nbsp;·&nbsp; Easy: 138 · Medium: 126 · Hard: 19**
@@ -232,7 +218,7 @@ Scalable backend using **Spring Boot** — service-to-service communication, RES
 
 ### 📘 DSA Practice — Java & Python
 
-**400+ interview problems** across arrays, strings, recursion, linked lists, trees, stacks, queues, sorting — all focused on time–space optimization and clean logic.
+**400+ interview problems** across arrays, strings, recursion, linked lists, trees, stacks, queues, sorting — focused on time–space optimization and clean logic.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -248,22 +234,14 @@ Scalable backend using **Spring Boot** — service-to-service communication, RES
 ## 🎯 2026 Roadmap
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  Q1 2025  ████████████████████  ✅  Microservices + Redis + AWS  ║
-║  Q2 2025  ████████████████░░░░  🔄  System Design + Interview_ai ║
-║  Q3 2025  ████████░░░░░░░░░░░░  📌  Kubernetes + Distributed Sys ║
-║  Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Interview Prep + Open Source  ║
-║  2026     ░░░░░░░░░░░░░░░░░░░░  🚀  Big Tech Placement            ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  Q1 2025  ████████████████████  ✅  Microservices + Redis + AWS      ║
+║  Q2 2025  ████████████████████  ✅  401 LeetCode + Interview_ai Dev  ║
+║  Q3 2025  ████████░░░░░░░░░░░░  🔄  System Design + Kubernetes       ║
+║  Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Interview Prep + Open Source     ║
+║  2026     ░░░░░░░░░░░░░░░░░░░░  🚀  Big Tech Placement               ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
----
-
-## 📅 Weekly Dev Breakdown
-
-<!--START_SECTION:waka-->
-> 💡 Install [WakaTime](https://wakatime.com) VS Code extension + add `WAKATIME_API_KEY` to repo secrets to auto-populate this section with real coding time stats!
-<!--END_SECTION:waka-->
 
 ---
 
@@ -272,23 +250,19 @@ Scalable backend using **Spring Boot** — service-to-service communication, RES
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Md-Aman45/Md-Aman45/output/github-snake-dark.svg"/>
 </picture>
-
-> 💡 To enable the snake animation, add this GitHub Action to your profile repo at `.github/workflows/snake.yml` — see setup guide below
 
 </div>
 
----
-
-## ⚙️ Snake Animation Setup
-
 <details>
-<summary>👆 Click to see how to enable the contribution snake</summary>
+<summary>⚙️ <b>Click to set up the Snake animation</b></summary>
 
-Create `.github/workflows/snake.yml` in your profile repo with:
+<br/>
+
+Create `.github/workflows/snake.yml` in your **Md-Aman45/Md-Aman45** repo:
 
 ```yaml
 name: Generate Snake
@@ -315,6 +289,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+Then go to **Actions → Generate Snake → Run workflow** to trigger it manually the first time.
 
 </details>
 
