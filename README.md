@@ -1,246 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4a73,100:58a6ff&height=140&section=header&animation=fadeIn&text=Md%20Aman&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20%7C%20Java%20%2B%20DSA%20%7C%20MERN%20Stack&descSize=16&descAlignY=75&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1a6b3c&height=150&section=header&animation=fadeIn&text=Md%20Aman&fontSize=46&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%7C%20System%20Design%20%7C%20Java%20%2B%20Node.js&descSize=16&descAlignY=75&descColor=58a6ff" width="100%"/>
 
-<br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+Systems+with+Java+%26+Node.js;Microservices+%7C+Spring+Boot+%7C+Redis+%7C+AWS;401+LeetCode+Solved+%7C+Rank+%23297%2C743+%F0%9F%94%A5;Targeting+Big+Tech+Placements+2026+%F0%9F%8E%AF" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+production-grade+backend+systems+%F0%9F%9A%80;401+DSA+problems+solved+%7C+Rank+%23297%2C743+on+LeetCode;Microservices+%7C+Redis+%7C+AWS+EC2+%7C+Docker+%7C+JWT;Available+for+SWE+Internship+%2F+Full-Time+2026+%F0%9F%8E%AF" alt="Typing SVG"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman-7941a0355/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/portfolio.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmanOps/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/amanstack?tab=activity)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman-7941a0355/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://md-aman45.github.io/portfolio.github.io/)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Md-Aman45&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Md-Aman45&color=3fb950&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Md-Aman45?style=for-the-badge&color=58a6ff&logo=github&logoColor=white&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Md-Aman45?style=for-the-badge&color=3fb950&logo=github&logoColor=white&label=TOTAL+STARS)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Who Am I?
 
-```yaml
-┌─────────────────────────────────────────────────────────┐
-│  name     :  Md Aman                                    │
-│  handle   :  @Md-Aman45                                 │
-│  role     :  Backend Developer                          │
-│  college  :  Patna College — BCA Student                │
-│  location :  India 🇮🇳                                   │
-│  focus    :  Big Tech Placements 2026 🎯                 │
-│  status   :  Building & Learning — every single day     │
-└─────────────────────────────────────────────────────────┘
-```
+> **Backend-focused engineer** who ships real, production-deployed applications — not just toy projects.
+> I write clean, scalable code in **Java and Node.js**, understand system design fundamentals,
+> and solve complex problems consistently. Currently a **BCA student at Patna College, India**,
+> targeting **Software Engineer roles at product-based companies in 2026**.
 
-- ⚙️ Building production-grade systems with **Node.js, Spring Boot & Microservices**
-- 🧠 **401 LeetCode solved** · Rank **#297,743** · 160-day max streak 🔥
-- 📊 **285 GFG problems** · Easy: 138 · Medium: 126 · Hard: 19
-- 🌱 Deep diving into **System Design + Distributed Systems**
-- 🤖 Building **Interview\_ai** — AI-powered interview prep platform
-- 💡 Passionate about **clean, optimized, scalable backend code**
-- 🎯 Goal: **Software Engineer @ Big Tech — 2026**
+| | |
+|---|---|
+| 🏢 **Open To** | SWE Internship / Full-Time 2026 |
+| 💼 **Strongest In** | Backend Systems · REST APIs · DSA |
+| 🌍 **Location** | India (Remote / Relocation OK) |
+| 📬 **Reach Me** | aman9534577@gmail.com |
+| 🔗 **LinkedIn** | [md-aman-7941a0355](https://www.linkedin.com/in/md-aman-7941a0355/) |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I've Built (That Actually Works in Production)
 
-<div align="center">
+### 🟢 [GramFlix.in](https://gramflix.in) — Live · Production · Real Users
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+> A **full production system** — not a demo. Real users, real transactions, live on the internet.
 
-<br/><br/>
+**What I built:**
+- Designed a **multi-level referral (MLM) engine** from scratch in Node.js — handles referral chains, commission distribution, and fraud prevention logic
+- Built **JWT-based role access control** (admin / agent / user) with refresh token rotation
+- Integrated **Redis caching** for leaderboard queries — reduced DB load significantly
+- Deployed on **AWS EC2** with reverse proxy (Nginx), environment secrets management, and basic CI/CD via GitHub Actions
+- Built the frontend in **Next.js** with SSR for SEO-critical pages
 
-<img src="https://streak-stats.demolab.com?user=Md-Aman45&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Aman45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=3fb950&area=true&hide_border=true&area_color=1a3a5c&title_color=58a6ff" width="95%"/>
-
-</div>
+**Stack:** `Node.js` `Express` `MongoDB` `Redis` `Next.js` `AWS EC2` `Docker` `GitHub Actions` `JWT`
 
 ---
 
-## 🏆 Achievements & Badges
+### 🔨 [Interview\_ai](https://github.com/Md-Aman45/Interview_ai) — In Active Development
 
-<div align="center">
+> AI-powered interview preparation platform — helps developers practice technical interviews with intelligent feedback.
 
-![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-401-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![LeetCode Rank](https://img.shields.io/badge/Global%20Rank-%23297%2C743-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Max Streak](https://img.shields.io/badge/Max%20Streak-160%20Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+**What I'm building:**
+- **Full-stack architecture** — Node.js/Express backend + React frontend
+- Modular folder structure with `Backend/`, `Frontend/`, `src/` separation
+- Building question generation, answer evaluation, and session tracking features
+- Planning AI integration (Claude/OpenAI API) for intelligent feedback loops
 
-<br/>
-
-[![Feb 2026 Badge](https://img.shields.io/badge/%F0%9F%93%85%20Feb%202026%20Badge-EARNED-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/medal/?showImg=0&id=9507417&isLevel=false)
-![Daily Challenge](https://img.shields.io/badge/%E2%9A%A1%20Daily%20Challenge-45%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-<br/>
-
-![GFG Streak](https://img.shields.io/badge/GFG%20Streak-42%20Days-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![GFG Solved](https://img.shields.io/badge/GFG%20Solved-285-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Deployed-Production-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Big Tech](https://img.shields.io/badge/Target-Big%20Tech%202026-3fb950?style=for-the-badge&logo=rocket&logoColor=white)
-
-</div>
+**Stack:** `Node.js` `Express` `MongoDB` `React` `JavaScript`
 
 ---
 
-## 💻 Coding Stats
+### ⚙️ Spring Boot Microservices Suite
+
+> Backend architecture projects exploring real enterprise patterns — not just tutorials.
+
+**What I explored:**
+- **Service decomposition** — breaking monoliths into independently deployable services
+- Inter-service communication via **REST + Feign Client**
+- **API Gateway** pattern for routing and authentication
+- Containerization with **Docker Compose** for local orchestration
+
+**Stack:** `Java` `Spring Boot` `MySQL` `Docker` `Maven` `JWT`
+
+---
+
+## 📊 DSA — Consistent, Not Just a Number
+
+> 401 problems solved isn't a flex — it's a **habit**. Here's proof:
 
 <div align="center">
-
-### 🟡 LeetCode — AmanOps
 
 <a href="https://leetcode.com/u/AmanOps/">
-  <img src="https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/AmanOps?theme=dark&font=Fira%20Code&ext=heatmap&border=0" alt="LeetCode Stats"/>
 </a>
-
-**🔥 160-day max streak &nbsp;·&nbsp; 401 solved &nbsp;·&nbsp; Rank #297,743**
-
-📅 Feb 2026 Badge &nbsp;·&nbsp; ⚡ Daily Challenge 45%
-
-<br/>
-
-### 🟢 GeeksforGeeks — amanstack
-
-<a href="https://www.geeksforgeeks.org/profile/amanstack">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=amanstack&theme=dark" alt="GFG Stats"/>
-</a>
-
-**🔥 42-day streak &nbsp;·&nbsp; 285 problems &nbsp;·&nbsp; Easy: 138 · Medium: 126 · Hard: 19**
 
 </div>
-
----
-
-## 🛠 Tech Stack
 
 <div align="center">
 
-**⬛ Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🟩 Backend & Frameworks**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**🟦 Databases & Caching**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**🟧 DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**🔧 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Platform | Solved | Rank | Streak |
+|---|---|---|---|
+| 🟡 LeetCode | **401** (Easy: 196 · Med: 166 · Hard: 39) | **#297,743** | 160-day max 🔥 |
+| 🟢 GeeksforGeeks | **285** (Easy: 138 · Med: 126 · Hard: 19) | Active | 42-day streak |
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Activity
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 [Interview\_ai](https://github.com/Md-Aman45/Interview_ai) &nbsp;`🔨 In Progress`
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Md-Aman45&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aman45&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117"/>
 
-AI-powered **interview preparation platform** — full-stack architecture with Node.js backend, React frontend, and intelligent tools to help developers crack technical interviews.
+<br/><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://streak-stats.demolab.com?user=Md-Aman45&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff"/>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🚀 [GramFlix](https://gramflix.in) &nbsp;`🟢 Live`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Aman45&bg_color=0d1117&color=3fb950&line=3fb950&point=58a6ff&area=true&hide_border=true&area_color=0a2a1a&title_color=3fb950" width="95%"/>
 
-Production-grade **MLM referral platform** — microservices backend, role-based JWT auth, Redis caching, CI/CD pipeline on AWS EC2, full Next.js frontend.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Spring Boot Microservices
-
-Scalable backend using **Spring Boot** — service-to-service communication, REST APIs, JWT auth, containerized with Docker, following microservices best practices.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📘 DSA Practice — Java & Python
-
-**400+ interview problems** across arrays, strings, recursion, linked lists, trees, stacks, queues, sorting — focused on time–space optimization and clean logic.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🎯 2026 Roadmap
+## 🛠 Technical Skills
+
+<div align="center">
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java (Primary) · JavaScript · Python |
+| **Backend** | Node.js · Express.js · Spring Boot · REST APIs · JWT Auth |
+| **Frontend** | React · Next.js · HTML/CSS |
+| **Databases** | MySQL · PostgreSQL · MongoDB · Redis |
+| **DevOps/Cloud** | AWS EC2 · Docker · Kubernetes · GitHub Actions CI/CD · Nginx |
+| **Tools** | Git · Maven · IntelliJ IDEA · Postman · VS Code |
+| **Concepts** | Microservices · System Design · DSA · OOP · RBAC |
+
+</div>
+
+---
+
+## 🎯 2026 Goals — On Track
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  Q1 2025  ████████████████████  ✅  Microservices + Redis + AWS      ║
-║  Q2 2025  ████████████████████  ✅  401 LeetCode + Interview_ai Dev  ║
-║  Q3 2025  ████████░░░░░░░░░░░░  🔄  System Design + Kubernetes       ║
-║  Q4 2025  ░░░░░░░░░░░░░░░░░░░░  🎯  Interview Prep + Open Source     ║
-║  2026     ░░░░░░░░░░░░░░░░░░░░  🚀  Big Tech Placement               ║
-╚══════════════════════════════════════════════════════════════════════╝
+[████████████████████] ✅  Ship GramFlix to production with real users
+[████████████████████] ✅  Solve 400+ DSA problems across LeetCode + GFG
+[████████████░░░░░░░░] 🔄  Complete Interview_ai MVP
+[████████░░░░░░░░░░░░] 🔄  Learn Kubernetes + Advanced System Design
+[░░░░░░░░░░░░░░░░░░░░] 🎯  Land SWE role at product-based company
 ```
 
 ---
@@ -258,20 +171,16 @@ Scalable backend using **Spring Boot** — service-to-service communication, RES
 </div>
 
 <details>
-<summary>⚙️ <b>Click to set up the Snake animation</b></summary>
+<summary>⚙️ <b>Snake setup — click to expand</b></summary>
 
-<br/>
-
-Create `.github/workflows/snake.yml` in your **Md-Aman45/Md-Aman45** repo:
+Create `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -290,14 +199,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Actions → Generate Snake → Run workflow** to trigger it manually the first time.
-
 </details>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f4a73,100:0d1117&height=120&section=footer&text=%E2%9A%A1%20Always%20Building.%20Always%20Learning.%20Always%20Improving.%20%E2%9A%A1&fontSize=14&fontColor=c9d1d9&animation=fadeIn" width="100%"/>
+*Open to backend engineering roles, internships, and collaborations.*
+*If you're building something interesting — let's talk.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-aman-7941a0355/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman9534577@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b3c,50:0a2a4a,100:0d1117&height=120&section=footer&text=Available%20for%20SWE%20Roles%20%E2%80%94%202026&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
