@@ -216,3 +216,7 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b3c,50:0a2a4a,100:0d1117&height=120&section=footer&text=Available%20for%20SWE%20Roles%20%E2%80%94%202026&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
+
+
+
+
